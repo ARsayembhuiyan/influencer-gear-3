@@ -87,7 +87,6 @@ body {
 /* Logo section  */
 hr {
     color: #C0CCDA1A, #C0CCDA99, #C0CCDA1A;
-    height: 1px;
     width: 510px;
 }
 
@@ -164,4 +163,11 @@ margin-right: 5px;
 
    .collection-head, .description, .taka{ 
     padding-left: 7px;
+   }
+   .See-More a{ font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    margin-left: 500px;
+    color:#E02C6DDE;
    }
