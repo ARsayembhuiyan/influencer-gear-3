@@ -53,8 +53,9 @@ body {
     margin-bottom: 40px;
 
 }
-.banner-title{ 
-    font-size:  18px;
+
+.banner-title {
+    font-size: 18px;
 }
 
 .banner-decoration {
@@ -72,7 +73,7 @@ body {
 
 .banner-img {
     margin: 30px 13px 0px 83px;
-    background-image: url(../../Circle\ design-svg\ \(1\).png);
+    background-image: url(../../images/Circle\ design-svg\ \(1\).png);
     background-size: 260px;
     background-position: center;
 
@@ -107,67 +108,75 @@ hr {
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
     line-height: 70px;
-   margin-left: 40%;
+    margin-left: 40%;
 
 }
-.collection-head{
+
+.collection-head {
     font-family: 'Open Sans', sans-serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-family: 12px;
-    color:  Gray;
+    color: Gray;
 }
 
-.collections{ 
+.collections {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 5px;
-    }
-
-.Collection img{
-width: 177px;
-height: 177px;
-border-radius: 10px;
 }
-.Collection { 
+
+.Collection img {
+    width: 177px;
+    height: 177px;
+    border-radius: 10px;
+}
+
+.Collection {
     padding-top: 5px;
-    padding-left:5px;
+    padding-left: 5px;
     margin-bottom: 15px;
     border-radius: 0.5rem;
-background: #FFF;
-box-shadow: 5px 2px 30px 2px rgba(0, 0, 0, 0.15);
+    background: #FFF;
+    box-shadow: 5px 2px 30px 2px rgba(0, 0, 0, 0.15);
 }
 
-.description{ 
+.description {
     font-family: 'Inter', sans-serif;
-font-family: 'Open Sans', sans-serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 10px;
     color: Gray;
-    
+
 }
-.taka{
-color:  #000000DE;}
+
+.taka {
+    color: #000000DE;
+}
 
 .fa-solid.fa-star.filled {
-margin-right: 5px;
+    margin-right: 5px;
 }
 
-.fa-solid.fa-star.filled{ 
+.fa-solid.fa-star.filled {
     color: #FFC014;
-   }
+}
 
-   .fa-regular.fa-star-half-stroke{ 
+.fa-regular.fa-star-half-stroke {
     color: #FFC014;
     margin-right: 15px;
-   }
+}
 
-   .collection-head, .description, .taka{ 
+.collection-head,
+.description,
+.taka {
     padding-left: 7px;
-   }
-   .See-More a{ font-family: 'Inter', sans-serif;
+}
+
+.See-More a {
+    font-family: 'Inter', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-size: 10px;
     margin-left: 500px;
-    color:#E02C6DDE;
-   }
+    color: #E02C6DDE;
+}
